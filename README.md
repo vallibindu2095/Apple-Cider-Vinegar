@@ -29,10 +29,12 @@ ACV is regarded as a popular natural home remedy. People have used it for both c
 >![image](https://user-images.githubusercontent.com/120443205/207318659-189b32c0-9aca-426b-a3da-9205550e8b80.png)
 ---
 Additionally, there is evidence that it might provide health advantages like:
-•	Helps with weight loss
-•	Lower cholesterol
-•	Reducing the blood sugar
-•	Reducing the diabetic symptoms
+|S.No|Advantages|
+|---|---|
+|1|Helps with weight loss
+|2|Lower cholesterol
+|3|Reducing the blood sugar
+|4|Reducing the diabetic symptoms
 ---
 >![image](https://user-images.githubusercontent.com/120443205/207318721-d63b849c-f2bb-440a-901e-576e9b0b8b67.png)
 ---
@@ -46,18 +48,16 @@ ACV gently exfoliates the scalp which in turn will promote hair growth and healt
 It is recommended to use it around once a week if you wash your hair every day, once every other week if you wash your hair 2-3 times a week and once a month if you only wash your hair once a week.
 ---
 ## Other benefits of ACV
-
-•	Food Preservative
-•	As a natural deodorant
-•	To make a salad vinaigrette
-•	To make a multi-purpose cleaner
-•	To soothe a sore throat
-•	As a facial toner 
-•	To trap fruit flies
-•	To wash fruits and vegetables & dish detergent
-•	To clean dentures & mouthwash 
-•	As a hair rinse & dandruff treatment
-•	As a weed killer
-•	To treat acne
-•	To get rid of warts
+|S.No|Uses|
+|---|---|
+|1|Food Preservative
+|2|As a natural deodorant
+|3|To make a salad vinaigrette
+|4|To make a multi-purpose cleaner
+|5|To soothe a sore throat
+|6|As a facial toner 
+|7|To trap fruit flies
+|8|To wash fruits and vegetables & dish detergent
+|9|To clean dentures & mouthwash 
+|10|As a hair rinse & dandruff treatment
 ---
